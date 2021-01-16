@@ -3,13 +3,13 @@
     {
       "id": 1,
       "sellername": "Seller1"
-      "harvestdate": 1/14/2021
+      "harvestdate": "1/14/2021"
       "amountavailable": 5
       "price": "200"
     },
       "id": 2,
       "sellername": "Seller2"
-      "harvestdate": 1/15/2021
+      "harvestdate": "1/15/2021"
       "amountavailable": 10
       "price": 300
     {
@@ -18,7 +18,7 @@
   "Banana": {
       "id": 1,
       "sellername": "Seller1"
-      "harvestdate": 1/14/2021
+      "harvestdate": "1/14/2021"
       "amountavailable": 5
       "price": 50
   }
